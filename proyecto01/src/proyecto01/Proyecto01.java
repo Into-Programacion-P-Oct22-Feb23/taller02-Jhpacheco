@@ -19,6 +19,7 @@ public class Proyecto01 {
     System.out.println("Versionado a través de Git" );
     System.out.println("Manejado desde GitHub");
     System.out.println("Creado por Jhpacheco");
+    System.out.println("Además se usar GitHubClassroom");
 
     }
     
